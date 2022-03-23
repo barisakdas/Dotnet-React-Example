@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a4d65f5-90d1-4e9a-af90-b0a430126e5c": {
+      "ProjectGuid": "6a4d65f5-90d1-4e9a-af90-b0a430126e5c",
+      "DisplayName": "CoreLayer",
+      "ColorIndex": 0
+    },
+    "00d03da1-f10d-4754-9ca9-7910d6346c51": {
+      "ProjectGuid": "00d03da1-f10d-4754-9ca9-7910d6346c51",
+      "DisplayName": "RepositoryLayer",
+      "ColorIndex": 1
+    },
+    "e3ec7361-23bb-48a0-9774-b965e96b98de": {
+      "ProjectGuid": "e3ec7361-23bb-48a0-9774-b965e96b98de",
+      "DisplayName": "ServiceLayer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
