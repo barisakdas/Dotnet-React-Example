@@ -1,4 +1,4 @@
-# Golang - React Todo App
+# DOTNET - REACT APP
 
 The project is designed as an api-client application. The api side is built with .Net6. MSSql is selected as the database. The client side is created with React.
 
